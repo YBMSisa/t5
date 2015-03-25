@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-modified111
-=======
-cbvcbcvbcmodified
- vvbnvbnvb
->>>>>>> 729126c1e6a1ba2f3ff2817f5832d159b188b46a
+modified1111111
